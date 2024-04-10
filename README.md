@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @baruskaa :)
-- 👀 I’m interested in programming, art, and tv shows
-- 🌱 I’m currently learning Java, Web Design, & Mobile App Design
-- 😄 Pronouns: she/her
+- 👋 hellloooooooo :)
+- 👀 i'm interested in digital art, programming, tv shows, and music
+- 🌱 currently an ICT-MAWD student at STI 
 
 <!---
 baruskaa/baruskaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
