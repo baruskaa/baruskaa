@@ -1,5 +1,4 @@
 - 👋 hellloooooooo :)
-- 👀 i'm interested in digital art, programming, tv shows, and music
 - 🌱 currently an ICT-MAWD student at STI 
 
 <!---
